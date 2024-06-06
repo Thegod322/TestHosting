@@ -1,0 +1,14 @@
+**/node_modules
+/.vscode
+/myenv
+
+# local env files
+.env.local
+.env.*.local
+.env
+
+reportWebVitals.js
+setupTests.js
+``` 
+/data
+/notes
